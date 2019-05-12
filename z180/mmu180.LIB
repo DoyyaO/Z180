@@ -1,0 +1,14 @@
+timestamp=1557671830752
+
+[~A]
+ModifyID=105
+Version=73
+c:/My_Designs/kurs/mmu180/src/mmu180.v=0*0*1306
+c:/My_Designs/kurs/mmu180/src/mmu180.v_ioport.v=0*1761*3300
+c:/My_Designs/kurs/mmu180/src/mmu180.v_ioport.v_mmu180_testbench.v=0*3780*6791
+
+[~MFT]
+0=0|0mmu180.mgf|6791|0
+
+[~U]
+

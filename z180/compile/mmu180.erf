@@ -1,0 +1,21 @@
+MESSAGE "Pass 1. Scanning modules hierarchy."
+MESSAGE "Module \$root found in current working library."
+BEGINPROGRESS Compiling...
+UPDATEPROGRESS 11
+UPDATEPROGRESS 23
+UPDATEPROGRESS 35
+MESSAGE "Pass 2. Processing instantiations."
+UPDATEPROGRESS 45
+MESSAGE "Pass 3. Processing behavioral statements."
+UPDATEPROGRESS 80
+MESSAGE "ELB/DAG code generating."
+MESSAGE "Module \$root found in current working library."
+UPDATEPROGRESS 84
+UPDATEPROGRESS 88
+UPDATEPROGRESS 92
+UPDATEPROGRESS 96
+UPDATEPROGRESS 100
+MESSAGE "Unit top modules: ioport_a16_dx_wo mmu180_Testbench."
+MESSAGE "$root top modules: ioport_a16_dx_wo mmu180_Testbench."
+ENDPROGRESS Compiling...
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time: 0[s]."

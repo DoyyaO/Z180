@@ -1,0 +1,72 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=mmu180
+
+[Library]
+mmu180=.\mmu180.LIB
+
+[$LibMap$]
+mmu180=.
+Active_lib=
+
+[Settings]
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+CSYNTH_TOOL=<none>
+PHYSSYNTH_TOOL=<none>
+FLOW_TYPE=HDL
+LANGUAGE=VERILOG
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+DVM_DISPLAY=NO
+REFRESH_FLOW=1
+FAMILY=
+
+[IMPLEMENTATION]
+UCF=
+
+[Groups]
+TestBench=1
+
+[Folders]
+Name3=Makefiles
+Directory3=c:\My_Designs\kurs\mmu180\
+Extension3=mak
+Name4=Memory
+Directory4=c:\My_Designs\kurs\mmu180\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=c:\My_Designs\kurs\mmu180\
+Extension5=dll
+Name6=PDF
+Directory6=c:\My_Designs\kurs\mmu180\
+Extension6=pdf
+Name7=HTML
+Directory7=c:\My_Designs\kurs\mmu180\
+Extension7=
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/mmu180.v=-1
+/ioport.v=-1
+TestBench/mmu180_Testbench.v=-1
+TestBench/mmu180_Testbench_runtest.do=-1
+
+[Files.Data]
+.\src\mmu180.v=Verilog Source Code
+.\src\ioport.v=Verilog Source Code
+.\src\TestBench\mmu180_Testbench.v=Verilog Test Bench
+.\src\TestBench\mmu180_Testbench_runtest.do=Macro
+

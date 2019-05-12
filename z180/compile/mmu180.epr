@@ -1,0 +1,3 @@
+"./src/testbench/mmu180_testbench.v"	1
+"./src/mmu180.v"	1
+"./src/ioport.v"	1

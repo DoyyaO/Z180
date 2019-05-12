@@ -1,0 +1,1 @@
+ -work mmu180 -lc c:/My_Designs/kurs/library.cfg -fl c:/My_Designs/kurs/mmu180/projlib.cfg -o c:/My_Designs/kurs/mmu180/compile -l "mmu180"

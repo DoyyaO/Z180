@@ -1,0 +1,1 @@
+ -u "C:\Program Files (x86)\Aldec\Active-HDL 7.3\bin/systf.dll" -v20  "c:\My_Designs\kurs\mmu180\src\mmu180.v" -v20  "c:\My_Designs\kurs\mmu180\src\ioport.v" -v20  "c:\My_Designs\kurs\mmu180\src\testbench\mmu180_testbench.v"  -cs  -g 5  -l "c:\My_Designs\kurs\mmu180\compile\mmu180.erf" -r -li "c:\My_Designs\kurs\mmu180\compile\mmu180.epr" -p "c:\My_Designs\kurs\mmu180" 
